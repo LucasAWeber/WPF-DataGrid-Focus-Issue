@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwczj6yLCt84YJvuSE7soSLLa1gaqgizHyNDqfMAtO6DbUytZOzz3H5gKXOtamLp4/bWIHaBcSHGCx9PAwZZVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lweber\\source\\TestApp\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lweber\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\lweber\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+  ],
+  "logs": []
+}
